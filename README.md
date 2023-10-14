@@ -10,16 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maleesha-dinujaya&label=Profile%20views&color=0e75b6&style=flat" alt="maleesha-dinujaya" /> </p>
 
-- 🔭 I’m currently Pursing **BSc(HONS) in Eng. Information & Communication Engineering Degree at SLTC Research University Sri Lanka**
+- 🎓 I am currently pursuing a BSc (Hons) in Engineering, specializing in Information & Communication Engineering at SLTC Research University, Sri Lanka.
 
-- 🌱 I’m currently learning **Data Science, Machine Learning and Artificial Intelligence**
+- 🌐 My current focus is on Data Science, Machine Learning, and Artificial Intelligence, areas I'm deeply passionate about and eager to master.
 
-- 💬 Ask me about **Python,HTML,CSS,SQL or Anything Else**
+- 💬 Feel free to reach out to me for discussions on topics related to Python, HTML, CSS, SQL, or anything else in the realm of data science and technology.
 
-- 📫 How to reach me :- **maleeshachandrasekara@gmail.com**
+- 📧 You can contact me at maleeshachandrasekara@gmail.com. I'm always open to connecting with fellow enthusiasts and professionals in the field.
 
-- ⚡ Fun fact :-
--**I'm a coding newbie on a mission to turn coffee ☕ into code 💻, one line at a time. Learning and loving the journey! 🚀 #CodingBeginner**
+- 💡 Fun Fact: I'm a dedicated data science enthusiast on a mission to transform coffee ☕ into code 💻, one line at a time. I'm constantly learning and embracing the journey with enthusiasm and dedication. 🚀 #DataScienceEnthusiast
 
 
 <h3 align="left">Connect with me:</h3>
