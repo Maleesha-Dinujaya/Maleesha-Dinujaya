@@ -50,22 +50,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Power_BI_Logo_2020.svg" alt="Power BI" width="40" height="40"/>
 </p>
 
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maleesha-dinujaya&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha-dinujaya&layout=compact&langs_count=10&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=maleesha-dinujaya&theme=radical" alt="GitHub Contributions Graph">
-</p>
-
 ---
 
 ### 🎯 Quote of the Day  
