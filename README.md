@@ -19,7 +19,7 @@
 
 ### 🚀 About Me  
 - 🎓 **BSc (Hons) in Engineering** | Specializing in **Information & Communication Engineering** at **SLTC Research University, Sri Lanka**.  
-- 🌐 **Data Science Intern** at **SLT Digital Lab, Sri Lanka**.  
+- 🌐 **Data Science Intern** at **SLT Digital Lab, Sri Lanka**. (Dec 2024 - Jun 2025) 
 - 💡 Passionate about **AI, Machine Learning, and Data Science**.  
 - 💬 Feel free to **ask me** about **Python, Data Science, AI, SQL, or anything tech-related!**  
 - 📧 Reach me at **maleeshachandrasekara@gmail.com**.  
