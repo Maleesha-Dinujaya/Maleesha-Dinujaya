@@ -2,7 +2,11 @@
 
 <div align="center">
   
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&width=600&lines=Hi!!+Welcome+to+my+Profile;Turning+Data+into+Insights;Machine+Learning+Enthusiast;AI+Researcher;Python+Developer;Data+Analyst)
+<div align="center">
+  
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=700&duration=3000&pause=1000&color=00FF00&width=700&lines=HI!!+WELCOME+TO+MY+PROFILE!!;TURNING+DATA+INTO+INSIGHTS;MACHINE+LEARNING+ENTHUSIAST;AI+RESEARCHER;PYTHON+DEVELOPER;DATA+ANALYST&center=true&vCenter=true&repeat=true&random=true&height=40&size=28&color=F794FF&color2=00FFFF&color3=FF4D4D&color4=FFFF00&color5=00FF00&color6=FFA500)
+  
+</div>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=maleesha-dinujaya&label=PROFILE+VIEWS&style=flat-square&color=blueviolet)
   
@@ -77,14 +81,6 @@
 
 > "Data is a precious thing and will last longer than the systems themselves."  
 > **— Tim Berners-Lee**  
-
----
-
-<div align="center">
-  
-  ![Snake Animation](https://github.com/maleesha-dinujaya/maleesha-dinujaya/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ---
 
