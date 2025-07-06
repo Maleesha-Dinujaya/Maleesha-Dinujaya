@@ -1,65 +1,107 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+there.+Welcome+to+my+profile!" />
-</h1>
+# 🚀 Maleesha Dinujaya  
 
-<h1 align="center">I'm Maleesha Dinujaya</h1>
-<h3 align="center">Turning Data into Insights, One Algorithm at a Time 📊🤖</h3>
+<div align="center">
+  
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&width=600&lines=Hi!!+Welcome+to+my+Profile;Turning+Data+into+Insights;Machine+Learning+Enthusiast;AI+Researcher;Python+Developer;Data+Analyst)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=maleesha-dinujaya&label=PROFILE+VIEWS&style=flat-square&color=blueviolet)
+  
+</div>
+
+---
+
+## ✨ About Me  
+
+🎓 **BSc (Hons) in Engineering** (Information & Communication Engineering) @ **SLTC Research University**  
+🔬 **Data Science Intern** @ **SLT Digital Lab** (Dec 2024 - Jun 2025)  
+💡 Passionate about **AI, ML, Deep Learning, and Data Science**  
+📊 Love **exploring datasets, building models, and visualizing insights**  
+☕ **Fun Fact:** I turn coffee ☕ into algorithms 🤖  
+
+---
+
+## 🛠️ Tech Stack  
+
+### Programming & Data Science  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### Machine Learning & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### Data Visualization & BI  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C7BB0?style=for-the-badge&logo=python&logoColor=white)
+
+### DevOps & Cloud  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=maleesha-dinujaya&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maleesha-dinujaya&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maleesha-dinujaya&show_icons=true&theme=radical&hide_border=true)
+  
+</div>
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maleesha-dinujaya)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maleesha-dinujaya)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maleesha_d)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/maleeshadinujaya)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maleesha-dinujaya)
+
+---
+
+## 🎯 Quote of the Day  
+
+> "Data is a precious thing and will last longer than the systems themselves."  
+> **— Tim Berners-Lee**  
+
+---
+
+<div align="center">
+  
+  ![Snake Animation](https://github.com/maleesha-dinujaya/maleesha-dinujaya/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300">
+  <img src="https://github-profile-trophy.vercel.app/?username=maleesha-dinujaya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<img align="right" alt = "" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=maleesha-dinujaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
-### 🚀 About Me  
-- 🎓 **BSc (Hons) in Engineering** | Specializing in **Information & Communication Engineering** at **SLTC Research University, Sri Lanka**.  
-- 🌐 **Data Science Intern** at **SLT Digital Lab, Sri Lanka**. (Dec 2024 - Jun 2025) 
-- 💡 Passionate about **AI, Machine Learning, and Data Science**.  
-- 💬 Feel free to **ask me** about **Python, Data Science, AI, SQL, or anything tech-related!**  
-- 📧 Reach me at **maleeshachandrasekara@gmail.com**.  
-- ☕ **Fun Fact:** I transform coffee into code one line at a time!  
+### 📧 Let's Collaborate!  
+📩 **Email:** maleeshachandrasekara@gmail.com  
+💼 **LinkedIn:** [Maleesha Dinujaya](https://linkedin.com/in/maleesha-dinujaya)  
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/maleesha-dinujaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/maleesha.chandrasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/maleesha_dinujaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/maleeshachandra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://dev.to/maleesha.dinujaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/maleeshachandrasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" alt="Grafana" width="40" height="40"/>
-</p>
-
-
-
-
----
-
-### 🎯 Quote of the Day  
-> "Data is the new oil. AI is the new electricity." – Andrew Ng  
-
----
-
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer&text=Thank%20you%20for%20visiting!&fontSize=20)
+  
+</div>
