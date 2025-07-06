@@ -1,6 +1,4 @@
 <div align="center">
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Waving Footer Animation" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF007A&center=true&vCenter=true&width=650&lines=Hi!!+I'm+Maleesha;Welcome+to+my+profile;Turning+Data+into+Insights;Crafting+Intelligent+AI+Systems;Building+Robust+ML+Models;Visualizing+Data+Stories;Coding+the+Future+with+Python" alt="Typing Animation" />
 </h1>
@@ -62,15 +60,14 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=maleesha-dinujaya&theme=react-dark&area=true&hide_border=true&custom_title=My+Coding+Waveform)
 
 ---
+<div align="center">
 
 ### 🏅 GitHub Trophy Showcase
 
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maleesha-dinujaya&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
-<div align="center">
 
 ### 🚀 Streak Rocket
 
@@ -95,6 +92,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maleesha_d)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/maleeshadinujaya)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maleesha-dinujaya)
+
 </div>
 
 
