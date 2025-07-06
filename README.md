@@ -1,10 +1,11 @@
-# 🚀 Maleesha Dinujaya
-
 <div align="center">
 
-  <h1><b>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=FF007A&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;Turning+Data+into+Insights;Crafting+Intelligent+AI+Systems;Building+Robust+ML+Models;Visualizing+Data+Stories;Coding+the+Future+with+Python" alt="Typing Animation" />
-  </b></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="Waving Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF007A&center=true&vCenter=true&width=650&lines=Hi!!+I'm+Maleesha;Welcome+to+my+profile;Turning+Data+into+Insights;Crafting+Intelligent+AI+Systems;Building+Robust+ML+Models;Visualizing+Data+Stories;Coding+the+Future+with+Python" alt="Typing Animation" />
+</h1>
+
+
 
   <br/>
 
