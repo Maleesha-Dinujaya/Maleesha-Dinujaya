@@ -1,13 +1,15 @@
 # 🚀 Maleesha Dinujaya  
 
 <div align="center">
-  
-<div align="center">
-  
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=700&duration=3000&pause=1000&color=00FF00&width=700&lines=HI!!+WELCOME+TO+MY+PROFILE!!;TURNING+DATA+INTO+INSIGHTS;MACHINE+LEARNING+ENTHUSIAST;AI+RESEARCHER;PYTHON+DEVELOPER;DATA+ANALYST&center=true&vCenter=true&repeat=true&random=true&height=40&size=28&color=F794FF&color2=00FFFF&color3=FF4D4D&color4=FFFF00&color5=00FF00&color6=FFA500)
-  
+
+  <h1><b>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=FF007A&center=true&vCenter=true&width=650&lines=Welcome+to+my+profile;Turning+Data+into+Insights;Crafting+Intelligent+AI+Systems;Building+Robust+ML+Models;Visualizing+Data+Stories;Coding+the+Future+with+Python" alt="Typing Animation" />
+  </b></h1>
+
 </div>
-  
+
+<div align="center">
+
   ![Profile Views](https://komarev.com/ghpvc/?username=maleesha-dinujaya&label=PROFILE+VIEWS&style=flat-square&color=blueviolet)
   
 </div>
